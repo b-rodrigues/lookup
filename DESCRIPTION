@@ -38,7 +38,7 @@ Suggests:
     BiocInstaller
 Remotes:
     jimhester/highlite,
-    gaborcsardi/gh,
+    gaborcsardi/gh@8237a88,
     hadley/memoise
 LinkingTo: Rcpp
 RoxygenNote: 6.0.1
