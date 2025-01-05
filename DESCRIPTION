@@ -39,7 +39,7 @@ Suggests:
 Remotes:
     jimhester/highlite,
     gaborcsardi/gh@8237a88,
-    hadley/memoise
+    hadley/memoise#33
 LinkingTo: Rcpp
 RoxygenNote: 6.0.1
 Collate: 
